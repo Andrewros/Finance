@@ -1,0 +1,1 @@
+9999999999{"name": "cs50", "version": "9.2.5", "summary": "CS50 library for Python", "platform": null, "requires_dist": ["Flask (>=1.0)", "SQLAlchemy (==1.4.46)", "sqlparse", "termcolor", "wheel"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}
